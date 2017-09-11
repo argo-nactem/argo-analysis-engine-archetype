@@ -37,7 +37,7 @@
 
 	<description>Parent POM containing sensible defaults for Argo Component development</description>
 
-	<url>https://github.com/argo-nactem/argo-starter-components/example-argo-analysis-engine</url>
+	<url>https://github.com/argo-nactem/argo-analysis-engine-archetype</url>
 
 	<developers>
 		<developer>
@@ -55,8 +55,8 @@
 	</licenses>
 
 	<scm>
-		<connection>scm:git:git://github.com/argo-nactem/argo-starter-components/example-argo-analysis-engine</connection>
-		<developerConnection>scm:git:git@github.com:argo-nactem/argo-starter-components.git/example-argo-analysis-engine</developerConnection>
-		<url>https://github.com/argo-nactem/argo-starter-components/example-argo-analysis-engine</url>
+		<connection>scm:git:git://github.com/argo-nactem/argo-analysis-engine-archetype</connection>
+		<developerConnection>scm:git:git@github.com:argo-nactem/argo-analysis-engine-archetype.git</developerConnection>
+		<url>https://github.com/argo-nactem/argo-analysis-engine-archetype</url>
 	</scm>
 </project>
